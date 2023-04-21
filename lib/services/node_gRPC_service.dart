@@ -1,8 +1,4 @@
-import 'package:fixnum/fixnum.dart';
-import 'package:genus_gRPC_dart_client/proto/brambl/models/transaction/io_transaction.pb.dart';
-import 'package:genus_gRPC_dart_client/proto/node/services/bifrost_rpc.pbgrpc.dart';
-import 'package:genus_gRPC_dart_client/utils/request_utils.dart';
-import 'package:grpc/grpc.dart';
+part of 'package:genus_gRPC_dart_client/client.dart';
 
 /// A gRPC service client for interacting with a remote node.
 ///
