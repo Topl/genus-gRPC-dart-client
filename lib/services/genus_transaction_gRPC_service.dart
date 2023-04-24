@@ -285,7 +285,7 @@ class GenusGRPCService {
   }
 
   /////////////////////////////
-  /// Transaction Ouputs
+  /// Transaction Ouputs (TxOs)
 
   /// Returns a [TxoAddressResponse] object for the transaction outputs found at the given [addresses] and [confidence].
   ///
